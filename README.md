@@ -1,6 +1,4 @@
 # Facial Expression Recognition with Keras
-The project comes from Coursera's guided project: [Facial Expression Recognition with Keras](https://www.coursera.org/programs/86ebe3a1-8523-43c0-a9da-7374390c1e9a/browse?entityTypeDescription=Rhyme+Projects&index=prod_enterprise_products&productId=IC9GxmJ7EeqZhwpHN8ICRw&productType=course&query=computer+vision+&showMiniModal=true).
-
 In this project, we are going to build a CNN in Keras. There are 7 different categories of facial expression: angry(0), disgust(1), fear(2), happy(3), sad(4), surprise(5) and neutral(6). And we are going to achieve the following goals:
 1. Develop a facial expression recognition model in Keras.
 2. Build and train a convolutional neural network (CNN).
